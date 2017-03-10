@@ -1,10 +1,12 @@
 					---- FILLIT README FILE ----
 
-1.) To compile the project type 'make' in the command window. The Makefile will create 'fillit' executable.
+1.) The complete task can be found in 'fillit.en.pdf'.
 
-2.) To run some test type them by hand in an sample file. If the name of the txt is 'sample', then type in the command window './fillit sample'
+2.) To compile the project type 'make' in the command window. The Makefile will create 'fillit' executable.
 
-3.) You have already some examples in the folder.
+3.) To run some tests type them by hand in an sample file. If the name of the text file is 'sample', then type in the command window './fillit sample'
+ 
+You have already some examples in the folder.
 
 -------
 Calin Hrihorciuc. 42 user account - chrihorc
