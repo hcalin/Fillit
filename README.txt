@@ -1,6 +1,6 @@
 					---- FILLIT README FILE ----
 
-1.) The complete task can be found in 'fillit.en.pdf'.
+1.) Please read 'fillit.en.pdf' in order to understand the assignemnt.
 
 2.) To compile the project type 'make' in the command window. The Makefile will create 'fillit' executable.
 
